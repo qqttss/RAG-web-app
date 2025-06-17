@@ -1,8 +1,9 @@
 # RAG-web-app
 
-React
-Next.js
-Vector Database: HNSWLLIB
-Embedding Model: chatGPT
-LLM Integration:
-Grounding:
+Teck Stack <br>
+React<br>
+Next.js<br>
+Vector Database: HNSWLLIB<br>
+Embedding Model: chatGPT<br>
+LLM Integration: <br>
+Grounding:<br>
